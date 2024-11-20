@@ -30,3 +30,9 @@ Photogram App.
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.png">  
+
+# Screen Demo
+<img src="assets/images/tabscreen/home.png">  
+<img src="assets/images/tabscreen/message.png">  
+<img src="assets/images/tabscreen/search.png">  
+<img src="assets/images/tabscreen/profile.png">  
