@@ -29,7 +29,7 @@ Photogram App.
 <img src="assets/images/login.png">  
 
 # Screen Demo
-<img src="assets/images/tabscreen/home.png">  
-<img src="assets/images/tabscreen/message.png">  
-<img src="assets/images/tabscreen/search.png">  
-<img src="assets/images/tabscreen/profile.png">  
+<img src="assets/images/screenshot/home.png">  
+<img src="assets/images/screenshot/message.png">  
+<img src="assets/images/screenshot/search.png">  
+<img src="assets/images/screenshot/profile.png">  
