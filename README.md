@@ -28,9 +28,6 @@ Photogram App.
 # Sign In Screen
 <img src="assets/images/login.png">  
 
-# Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
-
 # Screen Demo
 <img src="assets/images/tabscreen/home.jpg">  
 <img src="assets/images/tabscreen/message.jpg">  
