@@ -2,10 +2,11 @@
 Photogram App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* User-Friendly Interface
+* Fast Processing
+* File Compatibility
+* Export Options
+* Mobile and Cloud Access
 
 # Course Overview
 * Basic React Native Components
